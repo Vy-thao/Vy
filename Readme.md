@@ -1,7 +1,7 @@
 # 🌸 She Likes Flowers? 🌸 
 
 **A Digital Garden Built with Love (and JavaScript)**  
-*Where cursor movements bloom into flowers & "I LOVE YOU" animations steal hearts*  
+*Where cursor movements bloom into flowers & "I LOVE YOU BANGARAM" animations steal hearts*  
 
 ![Demo GIF](./images/image.png) 
 
@@ -9,7 +9,7 @@
 
 ## ✨ Features  
 - **Cursor Flower Effect**: Flowers with random colors/sizes appear wherever the cursor moves 🌈  
-- **Animated "I LOVE YOU"**: Roses rise from the bottom with a smooth CSS animation 🌹  
+- **Animated "I LOVE YOU BANGARAM"**: Roses rise from the bottom with a smooth CSS animation 🌹  
 - **Custom Color Picker**: Let users choose flower, grass, and background colors 🎨  
 - **Forever Bloom**: Flowers stay on the screen until the page is refreshed 🌼  
 
